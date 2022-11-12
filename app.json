@@ -1,4 +1,4 @@
-package.json
+
 { 
     "name": "Womginx",
     "description": "Fastest proxy using only nginx as the backend server",
